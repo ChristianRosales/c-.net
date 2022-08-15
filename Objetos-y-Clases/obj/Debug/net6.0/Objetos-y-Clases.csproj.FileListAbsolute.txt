@@ -1,0 +1,15 @@
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\bin\Debug\net6.0\Objetos-y-Clases.exe
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\bin\Debug\net6.0\Objetos-y-Clases.deps.json
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\bin\Debug\net6.0\Objetos-y-Clases.runtimeconfig.json
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\bin\Debug\net6.0\Objetos-y-Clases.dll
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\bin\Debug\net6.0\Objetos-y-Clases.pdb
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\obj\Debug\net6.0\Objetos-y-Clases.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\obj\Debug\net6.0\Objetos-y-Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\obj\Debug\net6.0\Objetos-y-Clases.AssemblyInfoInputs.cache
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\obj\Debug\net6.0\Objetos-y-Clases.AssemblyInfo.cs
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\obj\Debug\net6.0\Objetos-y-Clases.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\obj\Debug\net6.0\Objetos-y-Clases.dll
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\obj\Debug\net6.0\refint\Objetos-y-Clases.dll
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\obj\Debug\net6.0\Objetos-y-Clases.pdb
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\obj\Debug\net6.0\Objetos-y-Clases.genruntimeconfig.cache
+C:\Users\onix\source\repos\c#\Objetos-y-Clases\obj\Debug\net6.0\ref\Objetos-y-Clases.dll

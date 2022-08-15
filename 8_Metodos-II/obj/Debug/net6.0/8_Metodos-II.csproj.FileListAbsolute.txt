@@ -1,0 +1,15 @@
+C:\Users\onix\source\repos\c#\8_Metodos-II\bin\Debug\net6.0\8_Metodos-II.exe
+C:\Users\onix\source\repos\c#\8_Metodos-II\bin\Debug\net6.0\8_Metodos-II.deps.json
+C:\Users\onix\source\repos\c#\8_Metodos-II\bin\Debug\net6.0\8_Metodos-II.runtimeconfig.json
+C:\Users\onix\source\repos\c#\8_Metodos-II\bin\Debug\net6.0\8_Metodos-II.dll
+C:\Users\onix\source\repos\c#\8_Metodos-II\bin\Debug\net6.0\8_Metodos-II.pdb
+C:\Users\onix\source\repos\c#\8_Metodos-II\obj\Debug\net6.0\8_Metodos-II.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\8_Metodos-II\obj\Debug\net6.0\8_Metodos-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onix\source\repos\c#\8_Metodos-II\obj\Debug\net6.0\8_Metodos-II.AssemblyInfoInputs.cache
+C:\Users\onix\source\repos\c#\8_Metodos-II\obj\Debug\net6.0\8_Metodos-II.AssemblyInfo.cs
+C:\Users\onix\source\repos\c#\8_Metodos-II\obj\Debug\net6.0\8_Metodos-II.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\8_Metodos-II\obj\Debug\net6.0\8_Metodos-II.dll
+C:\Users\onix\source\repos\c#\8_Metodos-II\obj\Debug\net6.0\refint\8_Metodos-II.dll
+C:\Users\onix\source\repos\c#\8_Metodos-II\obj\Debug\net6.0\8_Metodos-II.pdb
+C:\Users\onix\source\repos\c#\8_Metodos-II\obj\Debug\net6.0\8_Metodos-II.genruntimeconfig.cache
+C:\Users\onix\source\repos\c#\8_Metodos-II\obj\Debug\net6.0\ref\8_Metodos-II.dll

@@ -1,0 +1,15 @@
+C:\Users\onix\source\repos\c#\3_estructuras\bin\Debug\net6.0\2_estructuras.exe
+C:\Users\onix\source\repos\c#\3_estructuras\bin\Debug\net6.0\2_estructuras.deps.json
+C:\Users\onix\source\repos\c#\3_estructuras\bin\Debug\net6.0\2_estructuras.runtimeconfig.json
+C:\Users\onix\source\repos\c#\3_estructuras\bin\Debug\net6.0\2_estructuras.dll
+C:\Users\onix\source\repos\c#\3_estructuras\bin\Debug\net6.0\2_estructuras.pdb
+C:\Users\onix\source\repos\c#\3_estructuras\obj\Debug\net6.0\2_estructuras.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\3_estructuras\obj\Debug\net6.0\2_estructuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onix\source\repos\c#\3_estructuras\obj\Debug\net6.0\2_estructuras.AssemblyInfoInputs.cache
+C:\Users\onix\source\repos\c#\3_estructuras\obj\Debug\net6.0\2_estructuras.AssemblyInfo.cs
+C:\Users\onix\source\repos\c#\3_estructuras\obj\Debug\net6.0\2_estructuras.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\3_estructuras\obj\Debug\net6.0\2_estructuras.dll
+C:\Users\onix\source\repos\c#\3_estructuras\obj\Debug\net6.0\refint\2_estructuras.dll
+C:\Users\onix\source\repos\c#\3_estructuras\obj\Debug\net6.0\2_estructuras.pdb
+C:\Users\onix\source\repos\c#\3_estructuras\obj\Debug\net6.0\2_estructuras.genruntimeconfig.cache
+C:\Users\onix\source\repos\c#\3_estructuras\obj\Debug\net6.0\ref\2_estructuras.dll

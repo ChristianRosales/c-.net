@@ -1,0 +1,15 @@
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\bin\Debug\net6.0\7_Funciones-y-metodos.exe
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\bin\Debug\net6.0\7_Funciones-y-metodos.deps.json
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\bin\Debug\net6.0\7_Funciones-y-metodos.runtimeconfig.json
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\bin\Debug\net6.0\7_Funciones-y-metodos.dll
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\bin\Debug\net6.0\7_Funciones-y-metodos.pdb
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\obj\Debug\net6.0\7_Funciones-y-metodos.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\obj\Debug\net6.0\7_Funciones-y-metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\obj\Debug\net6.0\7_Funciones-y-metodos.AssemblyInfoInputs.cache
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\obj\Debug\net6.0\7_Funciones-y-metodos.AssemblyInfo.cs
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\obj\Debug\net6.0\7_Funciones-y-metodos.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\obj\Debug\net6.0\7_Funciones-y-metodos.dll
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\obj\Debug\net6.0\refint\7_Funciones-y-metodos.dll
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\obj\Debug\net6.0\7_Funciones-y-metodos.pdb
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\obj\Debug\net6.0\7_Funciones-y-metodos.genruntimeconfig.cache
+C:\Users\onix\source\repos\c#\7_Funciones-y-metodos\obj\Debug\net6.0\ref\7_Funciones-y-metodos.dll

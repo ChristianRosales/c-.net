@@ -1,0 +1,15 @@
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\bin\Debug\net6.0\Excepciones_CicloWhile.exe
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\bin\Debug\net6.0\Excepciones_CicloWhile.deps.json
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\bin\Debug\net6.0\Excepciones_CicloWhile.runtimeconfig.json
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\bin\Debug\net6.0\Excepciones_CicloWhile.dll
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\bin\Debug\net6.0\Excepciones_CicloWhile.pdb
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\obj\Debug\net6.0\Excepciones_CicloWhile.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\obj\Debug\net6.0\Excepciones_CicloWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\obj\Debug\net6.0\Excepciones_CicloWhile.AssemblyInfoInputs.cache
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\obj\Debug\net6.0\Excepciones_CicloWhile.AssemblyInfo.cs
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\obj\Debug\net6.0\Excepciones_CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\obj\Debug\net6.0\Excepciones_CicloWhile.dll
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\obj\Debug\net6.0\refint\Excepciones_CicloWhile.dll
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\obj\Debug\net6.0\Excepciones_CicloWhile.pdb
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\obj\Debug\net6.0\Excepciones_CicloWhile.genruntimeconfig.cache
+C:\Users\onix\source\repos\c#\Excepciones_CicloWhile\obj\Debug\net6.0\ref\Excepciones_CicloWhile.dll
