@@ -1,0 +1,8 @@
+C:\Users\onix\source\repos\c#\Sesiones\s12.1_coleciones\bin\Debug\s12.1_coleciones.exe.config
+C:\Users\onix\source\repos\c#\Sesiones\s12.1_coleciones\bin\Debug\s12.1_coleciones.exe
+C:\Users\onix\source\repos\c#\Sesiones\s12.1_coleciones\bin\Debug\s12.1_coleciones.pdb
+C:\Users\onix\source\repos\c#\Sesiones\s12.1_coleciones\obj\Debug\s12.1_coleciones.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\Sesiones\s12.1_coleciones\obj\Debug\s12.1_coleciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\onix\source\repos\c#\Sesiones\s12.1_coleciones\obj\Debug\s12.1_coleciones.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\Sesiones\s12.1_coleciones\obj\Debug\s12.1_coleciones.exe
+C:\Users\onix\source\repos\c#\Sesiones\s12.1_coleciones\obj\Debug\s12.1_coleciones.pdb

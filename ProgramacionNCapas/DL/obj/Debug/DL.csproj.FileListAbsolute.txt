@@ -1,0 +1,6 @@
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\DL\bin\Debug\DL.dll
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\DL\bin\Debug\DL.pdb
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\DL\obj\Debug\DL.dll
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\DL\obj\Debug\DL.pdb

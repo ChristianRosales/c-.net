@@ -1,0 +1,8 @@
+C:\Users\onix\source\repos\c#\Sesiones\Examen\bin\Debug\Examen.exe.config
+C:\Users\onix\source\repos\c#\Sesiones\Examen\bin\Debug\Examen.exe
+C:\Users\onix\source\repos\c#\Sesiones\Examen\bin\Debug\Examen.pdb
+C:\Users\onix\source\repos\c#\Sesiones\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\Sesiones\Examen\obj\Debug\Examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\onix\source\repos\c#\Sesiones\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\Sesiones\Examen\obj\Debug\Examen.exe
+C:\Users\onix\source\repos\c#\Sesiones\Examen\obj\Debug\Examen.pdb

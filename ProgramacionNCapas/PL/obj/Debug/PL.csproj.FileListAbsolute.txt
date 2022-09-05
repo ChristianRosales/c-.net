@@ -1,0 +1,15 @@
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\bin\Debug\PL.exe.config
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\bin\Debug\PL.exe
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\bin\Debug\PL.pdb
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\bin\Debug\BL.pdb
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\bin\Debug\ML.pdb
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\bin\Debug\DL.pdb
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\obj\Debug\PL.csproj.SuggestedBindingRedirects.cache
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\obj\Debug\PL.exe
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\obj\Debug\PL.pdb
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\bin\Debug\BL.dll
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\bin\Debug\ML.dll
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\PL\bin\Debug\DL.dll

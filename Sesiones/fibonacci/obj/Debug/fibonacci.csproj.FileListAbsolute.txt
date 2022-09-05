@@ -1,0 +1,8 @@
+C:\Users\onix\source\repos\c#\Sesiones\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\onix\source\repos\c#\Sesiones\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\onix\source\repos\c#\Sesiones\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\onix\source\repos\c#\Sesiones\fibonacci\obj\Debug\fibonacci.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\Sesiones\fibonacci\obj\Debug\fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\onix\source\repos\c#\Sesiones\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\Sesiones\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\onix\source\repos\c#\Sesiones\fibonacci\obj\Debug\fibonacci.pdb

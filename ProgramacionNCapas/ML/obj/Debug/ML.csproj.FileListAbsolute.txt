@@ -1,0 +1,6 @@
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\ML\bin\Debug\ML.dll
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\ML\bin\Debug\ML.pdb
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\ML\obj\Debug\ML.csproj.AssemblyReference.cache
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\ML\obj\Debug\ML.dll
+C:\Users\onix\source\repos\c#\ProgramacionNCapas\ML\obj\Debug\ML.pdb
